@@ -1,6 +1,9 @@
 Enrico Cuono Alves Pereira - 10402875
 
 # Resumo da proposta:
+
+Durante o uso cotidiano de veículos, é comum que ocorram arranhões e amassados, que algumas vezes, podem passar despercebidos. Pensando nisso, surge a proposta de desenvolver uma inteligência artificial capaz de identificar automaticamente danos na lataria de um carro, como riscos e amassados. Essa tecnologia pode ser amplamente aplicada por proprietários de veículos, concessionárias e seguradoras, oferecendo agilidade, praticidade e precisão na detecção de danos, além de facilitar processos de avaliação, manutenção e seguros.
+
 No projeto será desenvolvido uma inteligência artificial para detectar automaticamente danos em veículos a partir de imagens. O modelo será capaz de classificar imagens de carros em duas categorias principais:
 - Carro normal (sem danos visíveis)
 - Carro danificado (com amassados, arranhões ou outros tipos de danos)
