@@ -1,4 +1,4 @@
-# Enrico Cuono Alves Pereira - 10402875
+Enrico Cuono Alves Pereira - 10402875
 
 # Resumo da proposta:
 No projeto será desenvolvido uma inteligência artificial para detectar automaticamente danos em veículos a partir de imagens. O modelo será capaz de classificar imagens de carros em duas categorias principais:
