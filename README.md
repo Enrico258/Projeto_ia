@@ -26,7 +26,7 @@ Para consumit o modelo via uma aplicação Streamlit:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/enrico528/Projeto_ia.git
+git clone https://github.com/Enrico258/Projeto_ia.git
 ```
 
 ### 2. Instale as dependências
