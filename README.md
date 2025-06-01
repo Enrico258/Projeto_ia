@@ -16,6 +16,6 @@ O modelo será capaz de classificar imagens de carros em duas categorias princip
 - https://www.kaggle.com/datasets/hamzamanssor/car-damage-assessment
 
 # Entregas: 
-[Código completo e executável em um notebook Python](notebookFinalProjeto.ipynb)
-[Aplicação streamlit](streamlitApp.py)
-Link do vídeo: https://youtu.be/i2FiMoWvNNs 
+- [Código completo e executável em um notebook Python](notebookFinalProjeto.ipynb)
+- [Aplicação streamlit](streamlitApp.py)
+- Link do vídeo: https://youtu.be/i2FiMoWvNNs 
