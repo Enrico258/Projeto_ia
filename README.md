@@ -47,5 +47,5 @@ streamlit run streamlitApp.py
 Após executar o comando acima, o Streamlit abrirá automaticamente seu navegador. Caso isso não aconteça, acesse manualmente:
 
 ```
-http://localhost:8080
+http://localhost:8501
 ```
