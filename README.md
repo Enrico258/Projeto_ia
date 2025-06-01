@@ -19,3 +19,32 @@ O modelo será capaz de classificar imagens de carros em duas categorias princip
 - [Código completo e executável em um notebook Python](notebookFinalProjeto.ipynb)
 - [Aplicação streamlit](streamlitApp.py)
 - Link do vídeo: https://youtu.be/i2FiMoWvNNs 
+
+##  Aplicação Streamlit
+Para consumit o modelo via uma aplicação Streamlit:
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/enrico528/Projeto_ia.git
+```
+
+### 2. Instale as dependências
+
+```bash
+pip install streamlit transformers torch sentencepiece protobuf numpy pillow
+```
+
+### 3. Execute a aplicação Streamlit
+
+```bash
+streamlit run streamlitApp.py
+```
+
+### 4. Acesse a aplicação
+
+Após executar o comando acima, o Streamlit abrirá automaticamente seu navegador. Caso isso não aconteça, acesse manualmente:
+
+```
+http://localhost:8080
+```
