@@ -17,7 +17,7 @@ O modelo será capaz de classificar imagens de carros em duas categorias princip
 
 # Entregas: 
 - [Código completo e executável em um notebook Python](notebookFinalProjeto.ipynb)
-- [Aplicação streamlit](streamlitApp.py)
+- [Aplicação streamlit](#Aplicação-Streamlit)
 - Link do vídeo: https://youtu.be/i2FiMoWvNNs 
 
 ##  Aplicação Streamlit
