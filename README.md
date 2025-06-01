@@ -32,12 +32,13 @@ git clone https://github.com/Enrico258/Projeto_ia.git
 ### 2. Instale as dependências
 
 ```bash
-pip install streamlit transformers torch sentencepiece protobuf numpy pillow
+pip install streamlit
 ```
 
 ### 3. Execute a aplicação Streamlit
 
 ```bash
+cd .\Projeto_ia\
 streamlit run streamlitApp.py
 ```
 
