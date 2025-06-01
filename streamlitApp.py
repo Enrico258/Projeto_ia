@@ -4,6 +4,14 @@ import torch.nn as nn
 from torchvision import models, transforms
 from PIL import Image
 import io
+import os
+import gdown
+
+if not os.path.exists("modelo_carro.pth"):
+    # Download do arquivo pth caso não haja
+    url = f"https://drive.google.com/uc?id=1SuawSetbel0spkjwAKUH9LJpkbfyMwKn"
+    output = "modelo_carro.pth"
+    gdown.download(url, output, quiet=False)
 
 # Dispositivo
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
