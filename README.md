@@ -32,7 +32,7 @@ git clone https://github.com/Enrico258/Projeto_ia.git
 ### 2. Instale as dependências
 
 ```bash
-pip install streamlit
+pip install streamlit gdown
 ```
 
 ### 3. Execute a aplicação Streamlit
